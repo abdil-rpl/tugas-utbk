@@ -1,0 +1,15 @@
+C:\Users\fafaf\Documents\UTBK\UTBK\bin\Debug\net10.0\UTBK.exe
+C:\Users\fafaf\Documents\UTBK\UTBK\bin\Debug\net10.0\UTBK.deps.json
+C:\Users\fafaf\Documents\UTBK\UTBK\bin\Debug\net10.0\UTBK.runtimeconfig.json
+C:\Users\fafaf\Documents\UTBK\UTBK\bin\Debug\net10.0\UTBK.dll
+C:\Users\fafaf\Documents\UTBK\UTBK\bin\Debug\net10.0\UTBK.pdb
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.AssemblyInfoInputs.cache
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.AssemblyInfo.cs
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.csproj.CoreCompileInputs.cache
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.dll
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\refint\UTBK.dll
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.pdb
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.genruntimeconfig.cache
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\ref\UTBK.dll
+C:\Users\fafaf\Documents\UTBK\UTBK\obj\Debug\net10.0\UTBK.csproj.Up2Date

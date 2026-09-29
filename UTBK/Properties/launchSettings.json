@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UTBK": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
